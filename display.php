@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UCLM Student Registration</title>
+    <title>UCLM - Student Registration</title>
+    <link rel="icon" href="https://uqulenyafyepinfweagp.supabase.co/storage/v1/object/sign/images/icons/teams/UCLM_1739197608922.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvaWNvbnMvdGVhbXMvVUNMTV8xNzM5MTk3NjA4OTIyLndlYnAiLCJpYXQiOjE3MzkxOTc2MTAsImV4cCI6MTc3MDczMzYxMH0.oJtvp3JS5t6OMZv3gFLxdZvRuWO2KZEfNBo7yOdCezU" />
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
