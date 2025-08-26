@@ -28,43 +28,43 @@
                     <div class="grid grid-cols-2 gap-4">
                         <fieldset class="fieldset">
                             <legend class="fieldset-legend text-sm">First Name </legend>
-                            <input type="text" name="fname" id="fname" class="input" />
+                            <input type="text" name="fname" id="fname" class="input" required />
                         </fieldset>
                         <fieldset class="fieldset">
                             <legend class="fieldset-legend text-sm">Last Name </legend>
-                            <input type="text" name="lname" id="lname" class="input" />
+                            <input type="text" name="lname" id="lname" class="input" required />
                         </fieldset>
                     </div>
                     <div class="grid grid-cols-3 gap-4">
                         <fieldset class="fieldset">
                             <legend class="fieldset-legend text-sm">ID Number </legend>
-                            <input type="number" name="id" class="input" />
+                            <input type="number" name="id" class="input" required />
                         </fieldset>
                         <fieldset class="fieldset">
                             <legend class="fieldset-legend text-sm">Course & Year </legend>
-                            <input type="text" name="course_year" id="course_year" class="input w-full" />
+                            <input type="text" name="course_year" id="course_year" class="input w-full" required />
                         </fieldset>
                         <fieldset class="fieldset">
                             <legend class="fieldset-legend text-sm">Date Of Birth</legend>
-                            <input type="date" name="date_of_birth" class="input" />
+                            <input type="date" name="date_of_birth" class="input" required />
                         </fieldset>
                     </div>
                     <fieldset class="fieldset">
                         <legend class="fieldset-legend text-sm">Email </legend>
-                        <input type="email" name="email" id="email" class="input w-full" />
+                        <input type="email" name="email" id="email" class="input w-full" required />
                     </fieldset>
                     <fieldset class="fieldset">
                         <legend class="fieldset-legend text-sm">Current Address</legend>
-                        <input type="text" name="address" class="input w-full" />
+                        <input type="text" name="address" class="input w-full" required />
                     </fieldset>
                     <div class="grid grid-cols-2 gap-4">
                         <fieldset class="fieldset">
                             <legend class="fieldset-legend text-sm">Emergency Person </legend>
-                            <input type="text" name="emergency_person" class="input w-full" />
+                            <input type="text" name="emergency_person" class="input w-full" required />
                         </fieldset>
                         <fieldset class="fieldset">
                             <legend class="fieldset-legend text-sm">Emergency Contact Number </legend>
-                            <input type="number" name="emergency_contact" class="input w-full" />
+                            <input type="number" name="emergency_contact" class="input w-full" required />
                         </fieldset>
                     </div>
                     <div class="w-full flex justify-end mt-5">

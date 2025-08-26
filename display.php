@@ -45,7 +45,7 @@
                     echo '<div class="col-span-2 flex flex-col items-start justify-start w-full gap-2">
                          <h1 class="font-bold text-xl">Personal Information</h1>
                          <div class="w-full flex justify-between text-end">
-                         <h1 class="font-bold text-base">Name</h1>
+                         <h1 class="font-bold text-base ">Name</h1>
                          <p class="text-base">' . $fname . ' ' . $lname .  '</p>
                          </div>
                           <div class="w-full flex justify-between text-end">
@@ -77,7 +77,6 @@
                     ?>
                 </div>
                 <button class="btn btn-outline btn-primary my-4" onclick="confirmInfo()">Confirm Information</button>
-                <p class="w-full text-center text-gray-500">Made with ❤️ by Benedict Avenido</p>
             </div>
         </div>
 </body>
